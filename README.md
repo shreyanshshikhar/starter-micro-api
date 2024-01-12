@@ -2,7 +2,7 @@
 
 This is the simplest possible nodejs api using the base http library that responds to any request with: 
 ```
-Yo!
+(https://shreyanshshikhar.github.io/Recipe-sharing-website/)
 ```
 
 ## Deploy in under 10 seconds
